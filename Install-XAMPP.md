@@ -17,4 +17,4 @@ In this guide, you'll learn the step-by-step instructions to install XAMPP on yo
 
 You Download XAMPP from [Apache Friends](https://www.apachefriends.org/index.html)
 
-![/img/Download-XAMPP.png]
+![Download XAMPP](img/Download-XAMPP.png)
